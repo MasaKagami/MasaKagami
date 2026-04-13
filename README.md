@@ -10,7 +10,7 @@ McGill Engineering alumni with a focus on frontend development and product think
 
 ### Currently
 
-**Partner & Product Developer** at [Z3NTRA](https://www.z3ntra.com/) — an end-to-end software development firm shipping scalable, production-ready solutions for startups and brands.
+**Partner & Product Developer** at [Z3NTRA](https://www.z3ntra.com/), an end-to-end software development firm shipping scalable, production-ready solutions.
 
 ---
 
@@ -35,20 +35,20 @@ McGill Engineering alumni with a focus on frontend development and product think
 
 | Project | Type | Year |
 |---|---|---|
-| [PromptShop](https://promptshop.co) | Startup — Product Development | 2026 |
-| [Z3ntra](https://www.z3ntra.com/) | Landing Page — Design & Development | 2026 |
-| [Link Affiliates](https://www.linkaffiliates.ca/) | Landing Page — Design & Development | 2025 |
-| Empor | Marketplace — Frontend Development | 2025 |
+| [PromptShop](https://promptshop.co) | Startup, Product Development | 2026 |
+| [Z3ntra](https://www.z3ntra.com/) | Landing Page, Design & Development | 2026 |
+| [Link Affiliates](https://www.linkaffiliates.ca/) | Landing Page, Design & Development | 2025 |
+| Empor | Marketplace, Frontend Development | 2025 |
 | Satellite Collision Prediction | Canadian Space Agency Capstone | 2025 |
-| [Budgetr](https://github.com/MasaKagami/Budgetr.) | Dashboard — Full Stack | 2024 |
-| [MyHealthPal](https://devpost.com/software/myhealthpal) | Hackathon — Frontend & ML | 2024 |
-| [masakagami.com](https://masakagami.com) | Portfolio — Design & Development | 2024 |
+| [Budgetr](https://github.com/MasaKagami/Budgetr.) | Dashboard, Full Stack | 2024 |
+| [MyHealthPal](https://devpost.com/software/myhealthpal) | Hackathon, Frontend & ML | 2024 |
+| [masakagami.com](https://masakagami.com) | Portfolio, Design & Development | 2024 |
 
 ---
 
 ### Education
 
-**B.Eng. Electrical Engineering**, Minor in Software Engineering — McGill University (2020 — 2025)
+**B.Eng. Electrical Engineering**, Minor in Software Engineering, McGill University (2020 - 2025)
 
 ---
 
