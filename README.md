@@ -1,29 +1,57 @@
-# 👋 Hello, I'm Masa (Nagamasa) Kagami!
+# Masa Kagami
 
-🎓 **About Me**  
-I'm a 5th-year McGill University student majoring in **Electrical Engineering** and minoring in **Software Engineering**. My current interests lie in **frontend development**, where I love combining creativity with coding to build intuitive and engaging user interfaces.
+**Product Developer / Frontend Developer / UI\+UX Developer**
 
-💻 **Technical Skills**  
-- **Languages:** JavaScript, TypeScript, Python, C++, Java, HTML, CSS, PostgreSQL  
-- **Frameworks & Libraries:** React.js, Next.js, Vue.js, Django, Tailwind CSS, Prisma  
-- **Other Skills:** Responsive Design, Web Performance Optimization, UI/UX Design  
+I build products that people actually want to use. From concept to code, I focus on creating interfaces that are intuitive, polished, and built to last.
 
-🌟 **What I'm Working On**  
-I’m currently the **Lead Frontend Developer and UI/UX Coordinator** for [Empor](https://empor.ca/), a student-exclusive marketplace platform. I focus on creating scalable and responsive interfaces using **Next.js** and **TailwindCSS**, collaborating with a diverse team to refine and grow the platform.
+McGill Engineering alumni with a focus on frontend development and product thinking.
 
-🚀 **Projects**  
-- **[Nutri Planner](https://github.com/shyamddesai/NutriPlanner)**: A health management platform providing personalized, macro-nutrient-focused recipes.  
-- **[Budgeter](https://github.com/MasaKagami/Budgetr.)**: An interactive financial dashboard for managing budgets and visualizing financial data.  
-- **[My Portfolio](https://masakagami.com)**: A personal website showcasing my projects, skills, and character.  
+---
 
-🌱 **Goals**  
-- Expand my knowledge in modern frontend frameworks and tools.  
-- Contribute to open-source projects that make an impact.  
-- Build products that enhance user experience while solving meaningful problems.  
+### Currently
 
-📫 **Connect With Me**  
-- **Portfolio:** [masakagami.com](https://masakagami.com)  
-- **LinkedIn:** [Nagamasa Kagami](https://www.linkedin.com/in/nagamasa)  
-- **Email:** nagamasa.kagami@mail.mcgill.ca  
+**Partner & Product Developer** at [Z3NTRA](https://www.z3ntra.com/) — an end-to-end software development firm shipping scalable, production-ready solutions for startups and brands.
 
-Thanks for stopping by! Feel free to check out my repositories or reach out to collaborate!
+---
+
+### Skills
+
+| Programming | Frameworks | Styling & UI | Tools & Design |
+|---|---|---|---|
+| TypeScript | React | Tailwind CSS | Figma |
+| JavaScript | Next.js | Framer Motion | Git |
+| Python | React Native | GSAP | Vercel |
+| C++ | Django | DaisyUI | Vite |
+| Java | Spring | Bootstrap | Supabase |
+| SQL | Prisma | | REST APIs |
+| HTML / CSS | Node.js | | CesiumJS |
+| MATLAB | Vue | | |
+
+**Languages:** English (Fluent) · Japanese (Fluent) · Thai (Beginner)
+
+---
+
+### Selected Work
+
+| Project | Type | Year |
+|---|---|---|
+| [PromptShop](https://promptshop.co) | Startup — Product Development | 2026 |
+| [Z3ntra](https://www.z3ntra.com/) | Landing Page — Design & Development | 2026 |
+| [Link Affiliates](https://www.linkaffiliates.ca/) | Landing Page — Design & Development | 2025 |
+| Empor | Marketplace — Frontend Development | 2025 |
+| Satellite Collision Prediction | Canadian Space Agency Capstone | 2025 |
+| [Budgetr](https://github.com/MasaKagami/Budgetr.) | Dashboard — Full Stack | 2024 |
+| [MyHealthPal](https://devpost.com/software/myhealthpal) | Hackathon — Frontend & ML | 2024 |
+| [masakagami.com](https://masakagami.com) | Portfolio — Design & Development | 2024 |
+
+---
+
+### Education
+
+**B.Eng. Electrical Engineering**, Minor in Software Engineering — McGill University (2020 — 2025)
+
+---
+
+### Connect
+
+[Portfolio](https://masakagami.com) · [LinkedIn](https://www.linkedin.com/in/nagamasa) · [Email](mailto:nagamasakagami@gmail.com)
